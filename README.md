@@ -10,12 +10,12 @@ To install:
 
 ```sh
 cd ~ 
-git clone https://github.com/startup-class/dotfiles.git .dotfiles
-bash .dotfiles/link.sh
+git clone https://github.com/vladdy/dotfiles.git .dotfiles
+bash .dotfiles/bootstrap.sh
 ```
 
 To upgrade:
 
 ```sh
-bash ~/.dotfiles/link.sh
+bash ~/.dotfiles/bootstrap.sh
 ```
